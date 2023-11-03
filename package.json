@@ -1,0 +1,14 @@
+{
+  "name": "tommy-bot",
+  "version": "1.0.0",
+  "description": "Discord bot based off Tommy Vercetti",
+  "main": "tommy-bot.js",
+  "scripts": {
+      "start": "node tommy-bot.js"
+  },
+  "dependencies": {
+      "discord.js": "^14.13.0",
+      "discord.js-commando": "^0.12.3",
+      "axios": "^1.6.0"
+  }
+}
